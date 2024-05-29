@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://ermi-tekk21.github.io/personal-website-portfolio-/](https://ermi-tekk21.github.io/personal-website-portfolio-/)
-
 - 📫 How to reach me **ermaatkk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
