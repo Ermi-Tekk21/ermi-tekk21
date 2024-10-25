@@ -8,7 +8,7 @@
 
 <p>
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Passionate+about+AI%2C+ML%2C+Self-Development+and+Business;Always+developing+my+skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;Passionate+about+AI%2C+ML&center=true&width=600&height=45">
 	</a>
 </p>
 
@@ -32,7 +32,6 @@
 <br>
 <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <a href="https://github.com/Ermi-Tekk21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ermi-Tekk21&show_icons=true&count_private=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ermi-Tekk21&layout=compact&count_private=true&langs_count=8&theme=dark"/>
 </a>
 
