@@ -3,7 +3,7 @@
 <h1> Hi there 👋, I'm Ermias</h1>
 
 <a target="_blank" href="https://www.canva.com/design/DAGT1Ww6YLk/kfJcuzQfyHd7eGgJlbHJhw/watch?utm_content=DAGT1Ww6YLk&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-  <img src="https://github.com/Ermi-Tekk21/ermi-tekk21/blob/main/ErmiasTekoleMarkos-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Watch my video"/>
+  <img src="https://github.com/Ermi-Tekk21/ermi-tekk21/blob/main/Readme.gif?raw=true" alt="Watch my video"/>
 </a>
 
 <p>
@@ -24,6 +24,7 @@
 🚩 Interested in Full Stack ML Application development and scalable systems
 </pre>
 <div align="center">
+	
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/ermias-tekilemarkos) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ermaatekk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ermi_Tekk) 
 
