@@ -2,7 +2,7 @@
 <div align="center">
 <h1> Hi there 👋, I'm Ermias</h1>
 
-<a target="_blank" href="https://www.canva.com/design/DAGT1Ww6YLk/kfJcuzQfyHd7eGgJlbHJhw/watch?utm_content=DAGT1Ww6YLk&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<a target="_blank" href="https://www.canva.com/design/DAGUvnZU_Z4/2oLMybU-ksMs5io0vXPqyg/watch?utm_content=DAGUvnZU_Z4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0f4ce3194c">
   <img src="https://github.com/Ermi-Tekk21/ermi-tekk21/blob/main/ermi.gif?raw=true" alt="Watch my video"/>
 </a>
 
