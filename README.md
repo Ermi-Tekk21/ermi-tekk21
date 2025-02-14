@@ -3,7 +3,7 @@
 <h1> Hi there 👋, I'm Ermias</h1>
 
 <a target="_blank" href="https://www.canva.com/design/DAGUvnZU_Z4/2oLMybU-ksMs5io0vXPqyg/watch?utm_content=DAGUvnZU_Z4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0f4ce3194c">
-  <img src="https://github.com/Ermi-Tekk21/ermi-tekk21/blob/main/ermi.gif?raw=true" alt="Watch my video"/>
+  <img src="https://github.com/Ermi-Tekk21/ermi-tekk21/blob/main/ReadmeNew.gif?raw=true" alt="Watch my video"/>
 </a>
 
 <p>
